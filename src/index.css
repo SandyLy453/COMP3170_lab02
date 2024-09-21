@@ -1,0 +1,63 @@
+.main {
+    margin: 50px auto 50px auto;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    margin: 20px 20px 50px 20px;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: "Jacques Francois Shadow", serif;
+    color: #737f64;
+    text-decoration: underline;
+}
+
+.container {
+    width: 60vw;
+    height: 200px;
+    background: #b5c99a;
+    color: #4a4a4a;
+    border-radius: 20px;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    margin-right: 40px;
+    align-items: center;
+    padding: 10px;
+}
+
+.artistName {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Jacques Francois Shadow", serif;
+}
+
+.subinfo {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+.footer {
+    text-align: center;
+    align-items: center;
+    color: #737f64;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 50px;
+}
+
+
+
+
+
